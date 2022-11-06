@@ -1,0 +1,4 @@
+---
+deployment_path: "~/Infrastructure"
+git repository: "https://github.com/adamb05/Infrastructure"
+git_branch: "main"
